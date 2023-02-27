@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/Nhan_Dev/Documents/DH-VL/221_LapTrinh_JavaScripe_NangCao/CarDriftJava-master-new/.metadata/.plugins/org.eclipse.jdt.core
+955541628.index
+3800725161.index
